@@ -1,0 +1,10 @@
+#myCarousel {
+	margin-right: 211px;
+}
+
+.description {
+	position: absolute;
+	right: 0;
+	top: 0px;
+	width: 400px;
+}
